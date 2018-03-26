@@ -1,0 +1,65 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: RecordatorioCS\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-03-21 05:55+0000\n"
+"PO-Revision-Date: 2018-03-21 06:12+0000\n"
+"Last-Translator: claudiasg <claudi_a14@hotmail.com>\n"
+"Language-Team: Spanish (Spain)\n"
+"Language: es_ES\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: admin/settings-page.php:30
+msgid " a horas "
+msgstr ""
+
+#: admin/settings-page.php:34
+msgid " El evento ha sido enviado al correo : "
+msgstr ""
+
+#: admin/settings-page.php:30
+msgid " para el "
+msgstr ""
+
+#: admin/settings-page.php:30
+msgid " Usted Tiene el siguiente evento: "
+msgstr ""
+
+#. Author of the plugin
+msgid "Claudia Salazar Gonzales"
+msgstr ""
+
+#: admin/settings-page.php:29
+msgid "EVENTO registrado a traves de Plugin RecordatorioCS en WordPress"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://profiles.wordpress.org/recordatorioCS"
+msgstr ""
+
+#: admin/settings-page.php:13
+msgid "Introduzca la direccion de correo electronico del remitente"
+msgstr ""
+
+#: admin/settings-page.php:11
+msgid "Enter the name of event"
+msgstr "Introduzca nombre del Evento"
+
+#: admin/settings-page.php:38
+msgid "Name of Event is empty"
+msgstr "El nombre del Evento esta vacio"
+
+#. Description of the plugin
+msgid ""
+"Plugin que permite registrar eventos en una fecha y hora determinada y "
+"enviarlos al correo electronico"
+msgstr ""
+
+#. Name of the plugin
+#: admin/class-admin-menu.php:10 admin/class-admin-menu.php:11
+msgid "RecordatorioCS"
+msgstr ""

@@ -1,0 +1,69 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: RecordatorioCS\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-03-19 04:17+0000\n"
+"PO-Revision-Date: 2018-03-19 04:22+0000\n"
+"Last-Translator: claudiasg <claudi_a14@hotmail.com>\n"
+"Language-Team: English (United States)\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#. Name of the plugin
+#: admin/class-admin-menu.php:10 admin/class-admin-menu.php:11
+msgid "RecordatorioCS"
+msgstr "RecordatorioCS"
+
+#: admin/settings-page.php:11
+msgid "Introduzca nombre del Evento"
+msgstr "Enter event name"
+
+#: admin/settings-page.php:13
+msgid "Introduzca la direccion de correo electronico del remitente"
+msgstr "Enter the sender's email address"
+
+#: admin/settings-page.php:29
+msgid "EVENTO registrado a traves de Plugin RecordatorioCS en WordPress"
+msgstr "EVENT registered through RecordatorioCS Plugin in WordPress"
+
+#: admin/settings-page.php:30
+msgid " Usted Tiene el siguiente evento: "
+msgstr "You have the following event:"
+
+#: admin/settings-page.php:30
+msgid " para el "
+msgstr "for the"
+
+#: admin/settings-page.php:30
+msgid " a horas "
+msgstr "To hours"
+
+#: admin/settings-page.php:34
+msgid " El evento ha sido enviado al correo : "
+msgstr ""
+"The event has been sent to the mail:\n"
+
+#: admin/settings-page.php:38
+msgid "El nombre del evento esta vacio"
+msgstr ""
+"The name of the event is empty\n"
+
+#. Description of the plugin
+msgid ""
+"Plugin que permite registrar eventos en una fecha y hora determinada y "
+"enviarlos al correo electronico"
+msgstr ""
+"Plugin that allows to register events at a certain date and time and send "
+"them to email"
+
+#. URI of the plugin
+msgid "https://profiles.wordpress.org/recordatorioCS"
+msgstr "https://profiles.wordpress.org/recordatorioCS"
+
+#. Author of the plugin
+msgid "Claudia Salazar Gonzales"
+msgstr "Claudia Salazar Gonzales"
